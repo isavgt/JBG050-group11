@@ -1,3 +1,4 @@
-*.csv
-/Datasets
+/Datasets/2010-2017
+/Datasets/2017-2019
+/Datasets/2022-2023
 /.idea
