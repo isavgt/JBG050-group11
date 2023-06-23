@@ -7,6 +7,15 @@ Folders:
 1. Datasets:
    includes all the datasets used (initial historical crime data, police workforce, population
 
+Files:
+1. requirements.txt: file including all the libraries used for this project
+2. data_exploration_arima.ipynb: data cleaning, EDA, predictions for Barnet burglary rates using ARIMA model
+3. forecast_prophet.ipynb: predictions for Barnet burglary rates using Facebook Prophet model (final model)
+4. DashboardCodeFinal.ipynb: most important and insightful plots, alongside with an interactive visualization where the user can choose month, year and ward of Barnet to get the number of hours needed according to our predictions using Prophet
+5. LSTM.ipynb: predictions for Barnet burglary rates using LSTM model
+6. forecast_holt_winters.ipynb: predictions for Barnet burglary rates using Holt-Winters model
+
+
 # How to run the code
 1. run the requirements.txt file in order to get all the necessary libraries
 2. download the files and folders from the folder Dataset, and change the directory in the ipynb files with the one at yours
