@@ -5,7 +5,7 @@ This project develops a predictive policing model to forecast residential burgla
 # File & Folder Summary
 Folders:
 1. Datasets:
-   includes all the datasets used (initial historical crime data, police workforce, population
+   includes all the datasets used (initial historical crime data, police workforce, population)
 
 Files:
 1. requirements.txt: file including all the libraries used for this project
