@@ -9,9 +9,9 @@ Folders:
 
 Files:
 1. requirements.txt: file including all the libraries used for this project
-2. data_exploration_arima.ipynb: data cleaning, EDA, predictions for Barnet burglary rates using ARIMA model
+2. data_exploration_arima.ipynb: data cleaning, EDA, predictions for Barnet burglary rates using ARIMA and SARIMA models
 3. forecast_prophet.ipynb: predictions for Barnet burglary rates using Facebook Prophet model (final model)
-4. DashboardCodeFinal.ipynb: most important and insightful plots, alongside with an interactive visualization where the user can choose month, year and ward of Barnet to get the number of hours needed according to our predictions using Prophet
+4. DashboardCodeFinal.ipynb: most important and insightful plots, alongside with an interactive visualization where the user can choose month, year, and ward of Barnet to get the number of hours needed according to our predictions using Prophet
 5. LSTM.ipynb: predictions for Barnet burglary rates using LSTM model
 6. forecast_holt_winters.ipynb: predictions for Barnet burglary rates using Holt-Winters model
 
